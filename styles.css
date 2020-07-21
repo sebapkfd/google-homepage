@@ -1,28 +1,60 @@
 body {
-    background-color:  rgb(0, 0, 0);
+    background-color:  rgb(255, 255, 255);
+    margin: 0px;
+    height: 100%;
 }
 
 div{
-    background-color:  rgb(255, 255, 255);
-    height: 200px;
-    width: 500px;
-    text-align: center;
-    font-size: 30px;
-    border-radius: 15px;
-    padding-top: 40px;
-    display: grid;
-    grid-auto-flow: column;
-    grid-column-gap: 10px;
-}
-
-h1{
     color: rgb(255, 255, 255);
+    margin: 0px;
+    padding: 0px;
+}
+/* 44 +15 */
+#container-navbar{
+    background-color: rgb(184, 58, 58);
+    height: 31px;
+    margin: 15px 15px 15px 0px;
+}
+/* 95 + 100 */
+#container-doodle{
+    background-color: rgb(29, 93, 129);
+    height: 95px;
+    margin: 100px 100px 1px 100px;
+}
+/* 44 + 1 +30 */
+#container-bar{
+    background-color: rgb(10, 43, 13);
+    height: 44px;
+    margin-top: 31px;
+    border: 1px;
 }
 
-h2{
-    color: rgb(39, 33, 33);
+/* 35+30 */
+#container-forms{
+    background-color: rgb(29, 129, 37);
+    height: 35px;
+    margin-top: 31px;
 }
 
-.container-img{
-    
+
+
+/* 81 + 1 */
+/* 41 + 40 */
+#container-footer{
+    background-color: rgb(34, 3, 30);
+    height: 81px;
+    align-items: flex-end;
+    border-top: 1px;
+    margin-top: 163px;
 }
+#footer-country{
+    background-color: rgb(147, 238, 73);
+    height: 41px;
+}
+
+#footer-options{
+    background-color: rgb(148, 93, 21);
+    height: 40px;
+}
+
+
