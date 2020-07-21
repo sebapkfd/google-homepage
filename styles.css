@@ -1,0 +1,28 @@
+body {
+    background-color:  rgb(0, 0, 0);
+}
+
+div{
+    background-color:  rgb(255, 255, 255);
+    height: 200px;
+    width: 500px;
+    text-align: center;
+    font-size: 30px;
+    border-radius: 15px;
+    padding-top: 40px;
+    display: grid;
+    grid-auto-flow: column;
+    grid-column-gap: 10px;
+}
+
+h1{
+    color: rgb(255, 255, 255);
+}
+
+h2{
+    color: rgb(39, 33, 33);
+}
+
+.container-img{
+    
+}

@@ -1,3 +1,3 @@
 # Google Homepage
 
->Small project, about rebuil the google homepage
+>Small project, about rebuild the google homepage
