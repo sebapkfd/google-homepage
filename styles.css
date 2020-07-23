@@ -11,15 +11,19 @@ div{
 }
 /* 44 +15 */
 #container-navbar{
-    background-color: rgb(184, 58, 58);
+    background-color: rgb(255, 255, 255);
     height: 31px;
     margin: 15px 15px 15px 0px;
+    display: flex;
+    justify-content: flex-end;
 }
 /* 95 + 100 */
 #container-doodle{
-    background-color: rgb(29, 93, 129);
+    background-color: rgb(255, 255, 255);
     height: 95px;
     margin: 100px 100px 1px 100px;
+    display: flex;
+    justify-content: center;
 }
 /* 44 + 1 +30 */
 #container-bar{
@@ -57,4 +61,27 @@ div{
     height: 40px;
 }
 
+.button1{
+    background-color: rgb(255, 255, 255);
+    border: rgb(255, 255, 255);
+    margin:  0px 15px 0px 15;
+}
+
+.button3{
+    background-color: rgb(66, 133, 244);
+    border: none;
+    color: rgb(255, 255, 255);
+    height: 30px;
+    box-sizing: inherit;
+    width: 55px;
+    font-weight: bold;
+    margin: 0px 15px 0px 8px;
+    border-radius: 2px;
+    padding: 0 12px;
+
+}
+
+#apps{
+    margin: 3px 5px 0px 5px;
+}
 
